@@ -1,0 +1,57 @@
+[
+  {
+    "id": "r1",
+    "app_id": "com.example.app",
+    "platform": "app_store",
+    "author": "alice",
+    "rating": 5,
+    "title": "Love it",
+    "body": "This app is fantastic, the new dashboard update is beautiful and fast.",
+    "date": "2026-07-01",
+    "version": "3.2.0"
+  },
+  {
+    "id": "r2",
+    "app_id": "com.example.app",
+    "platform": "google_play",
+    "author": "bob",
+    "rating": 1,
+    "title": "Crashes constantly",
+    "body": "Every time I open the dashboard the app crashes. Please fix this update.",
+    "date": "2026-07-02",
+    "version": "3.2.0"
+  },
+  {
+    "id": "r3",
+    "app_id": "com.example.app",
+    "platform": "app_store",
+    "author": "carol",
+    "rating": 3,
+    "title": "Mixed feelings",
+    "body": "The dashboard looks nice but login is slow and sometimes fails.",
+    "date": "2026-07-03",
+    "version": "3.1.9"
+  },
+  {
+    "id": "r4",
+    "app_id": "com.example.app",
+    "platform": "google_play",
+    "author": "dave",
+    "rating": 2,
+    "title": "Login issues",
+    "body": "Cannot login after the update, keeps saying invalid password even though it is correct.",
+    "date": "2026-07-03",
+    "version": "3.2.0"
+  },
+  {
+    "id": "r5",
+    "app_id": "com.example.app",
+    "platform": "app_store",
+    "author": "erin",
+    "rating": 5,
+    "title": "Great update",
+    "body": "Dashboard redesign is excellent, much easier to navigate than before.",
+    "date": "2026-07-04",
+    "version": "3.2.0"
+  }
+]
